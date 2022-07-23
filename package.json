@@ -1,0 +1,27 @@
+{
+  "name": "@jgbr123/prismadb",
+  "version": "1.0.0",
+  "description": "PrismaDB is an extremely easy to learn and fast Database solution to Write and Read data to the disk. It caches the entire Database in the Ram, so it should only be used for small databases that don't exceed the Ram size.",
+  "main": "prismadb.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JgBr123/PrismaDB.git"
+  },
+  "keywords": [
+    "Database",
+    "Prisma",
+    "I/O",
+    "Write",
+    "Read",
+    "Data"
+  ],
+  "author": "JgBr123",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/JgBr123/PrismaDB/issues"
+  },
+  "homepage": "https://github.com/JgBr123/PrismaDB#readme"
+}
